@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hihiii{
+	width: 40rem; height: 30rem;
+}
